@@ -1,0 +1,32 @@
+h1 {
+    padding: 5px;
+}
+.rpsheadclass  {
+    font-weight: bolder;
+    color: rgba(236, 50, 17, 0.911);
+    text-align: center;
+    border: 3px solid  black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: fit-content;
+}
+
+.flexboxclass {
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 10px;
+    width: 750px;
+    padding: 50px;
+}
+
+.flexboxclass img:hover{
+    margin: 5px;
+    box-shadow: -23px 24px 30px 9px rgba(26,138,222,0.83);
+    -webkit-box-shadow: -23px 24px 30px 9px rgba(26,138,222,0.83);
+    -moz-box-shadow: -23px 24px 30px 9px rgba(26,138,222,0.83);
+}
+
